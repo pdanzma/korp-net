@@ -32,7 +32,7 @@ This is more than just dark mode — it's a complete redesign of the system. Eve
 ![Original Button Replika](images/button-replika.png)
 
 ## // INSTALLATION_PROTOCOL
-1. Download the `custom.css` file from this repository.
+1. Download the `final.css` file from this repository.
 2. Enable custom CSS in Kagi Settings.
 3. Paste the code into the inputfield at: [Link](https://kagi.com/settings?p=custom_css)
 4. Save and enjoy your enhanced Kagi experience!
