@@ -5,9 +5,7 @@ This project represents a total redesign of the Kagi search engine's standard UI
 
 This is more than just dark mode — it's a complete redesign of the system. Every search feels like a command, and each result is treated as if it were a data packet extracted from a secure mainframe. Every interaction is designed to feel precise and controlled with a hint of danger.
 
-![Demo Video](images/demo-video.gif)
----
-![Start Query](images/start-query.png)
+![Start Query](images/search-query.png)
 ---
 ![Startpage](images/startpage.png)
 ---
