@@ -46,3 +46,5 @@ The startup animation, which fills the entire screen, could be annoying for some
 - Concept & Vision: ME :D
 
 - Inspiration: The incredible UI/UX design of Cyberpunk 2077 by CD PROJEKT RED. (Link: https://www.behance.net/gallery/133185623/Cyberpunk-2077User-Interface-(Part-2))
+
+- Many thanks again to @rogue AU for sharing the tool https://css.github.io/csso/csso.html and also to the creator of the tool, without whom the project would not have been ready for release.
