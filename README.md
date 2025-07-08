@@ -32,6 +32,15 @@ This is more than just dark mode — it's a complete redesign of the system. Eve
 *Authentic Buttons*: The buttons are original replicas from the concept design directly from the designers of the game.
 
 ![Original Button Replika](images/button-replika.png)
+---
+
+*Security report for a website*: New color scheme for the safety report in the colors of the corporate design.
+
+| ![Safe](images/normal.png) | ![Trackers](images/trackers.png) | ![Tracker-Danger](images/trackers-danger.gif) |
+|------------------------------|------------------------------|------------------------------|
+| Normal state                 | Website contains a high amount of trackers | Website is potentially dangerous |
+
+*Note*: The website “speedtest.net” is only an example and only serves to illustrate the last stage and does not actually reflect the state of danger.
 
 ## // INSTALLATION_PROTOCOL
 1. Download the `final.css` file from this repository.
