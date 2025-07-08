@@ -5,9 +5,7 @@ This project represents a total redesign of the Kagi search engine's standard UI
 
 This is more than just dark mode — it's a complete redesign of the system. Every search feels like a command, and each result is treated as if it were a data packet extracted from a secure mainframe. Every interaction is designed to feel precise and controlled with a hint of danger.
 
-![Demo Video](images/demo-video.gif)
----
-![Start Query](images/start-query.png)
+![Start Query](images/search-query.png)
 ---
 ![Startpage](images/startpage.png)
 ---
@@ -34,7 +32,7 @@ This is more than just dark mode — it's a complete redesign of the system. Eve
 ![Original Button Replika](images/button-replika.png)
 
 ## // INSTALLATION_PROTOCOL
-1. Download the `custom.css` file from this repository.
+1. Download the `final.css` file from this repository.
 2. Enable custom CSS in Kagi Settings.
 3. Paste the code into the inputfield at: [Link](https://kagi.com/settings?p=custom_css)
 4. Save and enjoy your enhanced Kagi experience!
@@ -48,3 +46,5 @@ The startup animation, which fills the entire screen, could be annoying for some
 - Concept & Vision: ME :D
 
 - Inspiration: The incredible UI/UX design of Cyberpunk 2077 by CD PROJEKT RED. (Link: https://www.behance.net/gallery/133185623/Cyberpunk-2077User-Interface-(Part-2))
+
+- Many thanks again to @rogue AU for sharing the tool https://css.github.io/csso/csso.html and also to the creator of the tool, without whom the project would not have been ready for release.
