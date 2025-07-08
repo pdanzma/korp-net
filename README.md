@@ -11,6 +11,8 @@ This is more than just dark mode — it's a complete redesign of the system. Eve
 ---
 ![When Selected](images/when-selected.png)
 ---
+![Glitch Animation](images/glitch-animation.gif)
+---
 
 ## // SYSTEM_FEATURES_ENABLED
 *Dystopian Color Palette*: A void of absolute black is punctuated by the aggressive, cautionary glow of red (#FF3B45) and the sterile white of system text.
